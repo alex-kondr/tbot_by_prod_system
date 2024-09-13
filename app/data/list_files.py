@@ -1,0 +1,1 @@
+PRODUCTS = "/app/files/products.json"
