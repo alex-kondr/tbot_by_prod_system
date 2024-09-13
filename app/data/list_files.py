@@ -1,1 +1,1 @@
-PRODUCTS = "/app/files/products.json"
+PRODUCTS = "app/files/products.json"
